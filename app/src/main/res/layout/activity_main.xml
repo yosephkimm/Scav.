@@ -32,7 +32,7 @@
         android:id="@+id/textView2"
         android:layout_width="289dp"
         android:layout_height="280dp"
-        android:text="Short Description typed in by scavenger hunt creator to help find the locatoin with the image listen above. "
+        android:text="qqweqwe "
         android:textAlignment="center"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
